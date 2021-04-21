@@ -8,7 +8,8 @@ When finished with the customization, the container can be rebuilt by navigating
 	
 	$ docker build -t <mytag> .
 
-The CloverLeaf3D simulation is being run during container creation
+The CloverLeaf3D simulation is being run during container creation and provides a Cinema database.
+
 ## Running the container
 After either pulling or building the container, it can be run by calling:
 
